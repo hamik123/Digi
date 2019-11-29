@@ -1,0 +1,43 @@
+#mek{
+	
+	border: solid 2px blue; 
+	max-width: 800px ;
+	height: 70px ;
+	 margin:auto;
+	 background-color:#F4A460;
+	 color: black;
+	 
+}
+#erku{
+	display:block;
+	border: solid 2px blue; 
+	max-width: 170px ;
+	height: 500px ;
+	margin: 0px 100px 50px 273px;
+	background-color:#ffff40;
+}
+#ereq{
+	display:block;
+	border: solid 2px blue; 
+	max-width: 630px ;
+	height: 502px ;
+	margin: -556px 100px 50px 443px;
+	background-color:	#90b4d2;
+}
+#chors{
+	border: solid 2px blue; 
+	max-width: 800px ;
+	height: 50px ;
+	 margin:auto;
+	 margin: -50px 10px 10px 273px ;
+	 background-color:	#4682B4;
+}
+h1{
+	margin: 20px 0px 0px 20px;
+}
+h4{
+	margin: 20px 0px 0px 730px ; 
+}
+#mek{
+	
+}
